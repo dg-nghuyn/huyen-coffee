@@ -2,6 +2,11 @@
 
 Bài thực hành React: website một trang hiển thị thực đơn và mô phỏng đặt đồ uống.
 
+## Liên kết
+
+- [Website trực tuyến](https://huyen-coffee.vercel.app/)
+- [Mã nguồn GitHub](https://github.com/dg-nghuyn/huyen-coffee)
+
 ## Công nghệ
 
 - React 19
